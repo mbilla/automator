@@ -1,0 +1,7 @@
+/target/**
+**.jar
+/test-output/**
+.classpath
+.settings/**
+.project
+
